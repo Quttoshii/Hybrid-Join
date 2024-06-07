@@ -1,0 +1,1 @@
+select * from f_sales;
